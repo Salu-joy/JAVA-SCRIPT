@@ -59,7 +59,7 @@ console.log(Thiru);
 let admin = 54 > 23;
 console.log(54 > 23);
 
-prompt("what is ur age?");
+//prompt("what is ur age?");
 
-let age1 = prompt("what is ur age?");
-console.log(`the user age is ${age1}`);
+//let age1 = prompt("what is ur age?");
+//console.log(`the user age is ${age1}`);
